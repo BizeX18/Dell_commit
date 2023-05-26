@@ -2,6 +2,7 @@
 using namespace std;
 
 int main() {
-   cout << "Hello, World!" << std
+   cout << "Hello, World!" << endl;
     return 0;
 }
+password 123;
